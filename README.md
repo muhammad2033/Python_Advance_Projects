@@ -10,7 +10,7 @@ It means automating the social sites , such LinkedIn , Facebook , Google , Insta
 For those social Media's sites , I used the GUI and selenium library for automation , that's working 100% well.
 
 But I tried to make a web base application this automation using streamlit library.
-#Run
+# Run
 Run the following code in GUI as well as in Streamlit, and check the following errors in streamlit file.
 If you do some changes , then commit here.
 I'll love to see your kindess.
