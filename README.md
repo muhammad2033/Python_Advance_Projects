@@ -13,5 +13,5 @@ But I tried to make a web base application for this automation using streamlit l
 # Run
 Run the following code in GUI as well as in Streamlit, and check the following errors in streamlit file.
 If you do some changes , then commit here.
-I'll love to see your kindess.
+I'd love to see your kindness.
 thank you❤
